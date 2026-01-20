@@ -1,18 +1,18 @@
-#Airbnb Clone – Full Stack Web Application
+<h1[Airbnb Clone – Full Stack Web Application</h1>
 
-👉A **production-style Airbnb Clone** built using **modern Full Stack Web Development** technologies.
+A **production-style Airbnb Clone** built using **modern Full Stack Web Development** technologies.
 This project demonstrates a complete **end-to-end web application** including frontend UI, backend APIs, database integration, authentication, CRUD operations, and robust error handling.
 
 ---
 
-## 👉 Overview
+##  Overview
 
 This Airbnb Clone replicates core functionalities of the original platform and focuses on **real-world backend logic and database-driven workflows**.
 The application is fully functional and follows best practices such as **MVC architecture**, **RESTful routing**, and **middleware-based error handling**.
 
 ---
 
-## ✨ Features
+##  Features
 
 * User Authentication (Register / Login / Logout)
 * Secure session handling
@@ -26,7 +26,7 @@ The application is fully functional and follows best practices such as **MVC arc
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -48,7 +48,7 @@ The application is fully functional and follows best practices such as **MVC arc
 
 ---
 
-## 👉 Architecture & Concepts Used
+##  Architecture & Concepts Used
 
 * MVC (Model–View–Controller) architecture
 * RESTful routing
@@ -60,7 +60,7 @@ The application is fully functional and follows best practices such as **MVC arc
 ---
 
 
-## 👉 Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository
 
@@ -90,7 +90,7 @@ The application is fully functional and follows best practices such as **MVC arc
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -102,7 +102,7 @@ Through this project, I learned:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Payment integration
 * Reviews & ratings
@@ -112,7 +112,7 @@ Through this project, I learned:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ilma Gulzar**
 Full Stack Web Development Learner
