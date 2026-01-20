@@ -65,7 +65,7 @@ The application is fully functional and follows best practices such as **MVC arc
 1. Clone the repository
 
    ```
-   git clone https://github.com/your-username/airbnb-clone.git
+   git clone https://github.com/Ilma-gulzar21/Airbnb.git
    ```
 
 2. Install dependencies
