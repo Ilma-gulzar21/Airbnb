@@ -1,4 +1,4 @@
-<h1[Airbnb Clone – Full Stack Web Application</h1>
+<h1>Airbnb Clone – Full Stack Web Application</h1>
 
 A **production-style Airbnb Clone** built using **modern Full Stack Web Development** technologies.
 This project demonstrates a complete **end-to-end web application** including frontend UI, backend APIs, database integration, authentication, CRUD operations, and robust error handling.
